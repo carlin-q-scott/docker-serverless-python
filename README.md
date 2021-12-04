@@ -1,6 +1,8 @@
-# docker-serverless
+# docker-serverless-python
 
-A simple container for running serverless commands
+A simple container for running serverless commands.
+
+Fork of [docker-serverless](https://github.com/carlin-q-scott/docker-serverless)
 
 ## How to Use
 
